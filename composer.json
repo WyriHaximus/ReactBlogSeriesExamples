@@ -1,7 +1,7 @@
 {
     "require": {
-        "react/event-loop": "~0.4",
+        "react/event-loop": "^0.4",
         "react/promise": "~2.2",
-        "react/dns": "0.4.*"
+        "react/dns": "^0.4"
     }
 }
