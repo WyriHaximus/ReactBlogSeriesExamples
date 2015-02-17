@@ -4,7 +4,6 @@ require '../vendor/autoload.php';
 
 $loop = React\EventLoop\Factory::create();
 
-$i = 0;
 $timer = $loop->addTimer(1, function() {
     echo 'Timer done', PHP_EOL;
 });
