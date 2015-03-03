@@ -5,6 +5,8 @@
         "react/dns": "^0.4",
         "react/stream": "^0.4",
         "whatthejeff/fab": "~1.0",
-        "calebeoliveira/kittens": "dev-master"
+        "calebeoliveira/kittens": "dev-master",
+        "react/socket": "^0.4",
+        "malenki/ansi": "~1.2"
     }
 }

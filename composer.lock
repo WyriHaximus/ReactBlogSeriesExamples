@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "389053958a48d285279553a89b06d1ad",
+    "hash": "655a8ae74a21f6a1a6901ea57515f171",
     "packages": [
         {
             "name": "calebeoliveira/kittens",
@@ -90,6 +90,49 @@
                 "event-emitter"
             ],
             "time": "2012-11-02 14:49:47"
+        },
+        {
+            "name": "malenki/ansi",
+            "version": "1.2.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/malenkiki/ansi.git",
+                "reference": "0333e9b36022b1c7da46be0bace2b41ce865df3c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/malenkiki/ansi/zipball/0333e9b36022b1c7da46be0bace2b41ce865df3c",
+                "reference": "0333e9b36022b1c7da46be0bace2b41ce865df3c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Malenki": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Michel Petit",
+                    "email": "petit.michel@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Simple class to put some colors into your CLI PHP apps!",
+            "homepage": "https://github.com/malenkiki/ansi",
+            "keywords": [
+                "ansi",
+                "cli",
+                "colors"
+            ],
+            "time": "2014-03-03 12:56:07"
         },
         {
             "name": "react/cache",
