@@ -6,3 +6,5 @@ The examples in this repository are for the following [ReactPHP blog series](htt
 1. [Timers](http://blog.wyrihaximus.net/2015/01/reactphp-timers/)
 2. [Promises](http://blog.wyrihaximus.net/2015/02/reactphp-promises/)
 3. [Ticks](http://blog.wyrihaximus.net/2015/02/reactphp-ticks/)
+4. [Streams](http://blog.wyrihaximus.net/2015/02/reactphp-streams/)
+5. [Sockets](http://blog.wyrihaximus.net/2015/03/reactphp-sockets/)
