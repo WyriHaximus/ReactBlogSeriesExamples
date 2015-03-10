@@ -7,6 +7,8 @@
         "whatthejeff/fab": "~1.0",
         "calebeoliveira/kittens": "dev-master",
         "react/socket": "^0.4",
-        "malenki/ansi": "~1.2"
+        "malenki/ansi": "~1.2",
+        "wyrihaximus/tic-tac-toe": "dev-master",
+        "react/socket-client": "0.4.*"
     }
 }
