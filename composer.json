@@ -10,6 +10,7 @@
         "malenki/ansi": "~1.2",
         "wyrihaximus/tic-tac-toe": "dev-master",
         "react/socket-client": "0.4.*",
-        "react/child-process": "0.4.*"
+        "react/child-process": "0.4.*",
+        "react/filesystem": "dev-master"
     }
 }

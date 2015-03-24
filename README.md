@@ -10,3 +10,4 @@ The examples in this repository are for the following [ReactPHP blog series](htt
 5. [Sockets](http://blog.wyrihaximus.net/2015/03/reactphp-sockets/)
 6. [Sockets clients](http://blog.wyrihaximus.net/2015/03/reactphp-socket-clients/)
 7. [Child processes](http://blog.wyrihaximus.net/2015/03/reactphp-child-processes/)
+8. [Filesystem](http://blog.wyrihaximus.net/2015/03/reactphp-filesystem/)
