@@ -36,7 +36,7 @@ class Connection
     }
 }
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $colours = ['red', 'green', 'yellow', 'blue', 'purple', 'cyan'];
 $connections = new \SplObjectStorage();

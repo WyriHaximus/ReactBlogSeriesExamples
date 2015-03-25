@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $loop = React\EventLoop\Factory::create();
 $dns = (new React\Dns\Resolver\Factory())->create('8.8.8.8', $loop);

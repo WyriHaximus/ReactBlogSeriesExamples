@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $loop = React\EventLoop\Factory::create();
 $process = new React\ChildProcess\Process('php md5_child.php');

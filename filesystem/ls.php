@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $loop = \React\EventLoop\Factory::create();
 $dir = \React\Filesystem\Filesystem::create($loop)->dir(dirname(__DIR__));

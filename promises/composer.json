@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/promise": "~2.2",
+        "react/dns": "^0.4"
+    }
+}

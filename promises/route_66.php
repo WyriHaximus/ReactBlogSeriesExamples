@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 $i = 0;
 $loop = \React\EventLoop\Factory::create();

@@ -1,0 +1,5 @@
+{
+    "require": {
+        "react/child-process": "0.4.*"
+    }
+}

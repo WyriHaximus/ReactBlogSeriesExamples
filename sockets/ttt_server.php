@@ -1,6 +1,6 @@
 <?php
 
-require '../vendor/autoload.php';
+require 'vendor/autoload.php';
 
 use React\EventLoop\Factory;
 use React\Promise\Deferred;

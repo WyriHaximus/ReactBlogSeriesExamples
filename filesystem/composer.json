@@ -1,0 +1,5 @@
+{
+    "require": {
+        "react/filesystem": "dev-master"
+    }
+}

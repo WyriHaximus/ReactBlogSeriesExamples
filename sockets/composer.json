@@ -1,0 +1,7 @@
+{
+    "require": {
+        "react/socket": "^0.4",
+        "malenki/ansi": "~1.2",
+        "wyrihaximus/tic-tac-toe": "dev-master"
+    }
+}

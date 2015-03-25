@@ -1,0 +1,8 @@
+{
+    "require": {
+        "react/stream": "^0.4",
+        "whatthejeff/fab": "~1.0",
+        "calebeoliveira/kittens": "dev-master",
+        "react/event-loop": "0.4.*"
+    }
+}
