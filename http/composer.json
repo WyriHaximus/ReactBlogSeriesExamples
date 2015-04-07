@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/http": "0.4.*",
+        "react/filesystem": "dev-master"
+    }
+}
