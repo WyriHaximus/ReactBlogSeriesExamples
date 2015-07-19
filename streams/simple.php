@@ -12,7 +12,7 @@ $loop->addPeriodicTimer(1, function(React\EventLoop\Timer\Timer $timer) use (&$i
 
     if ($i >= 15) {
         $loop->cancelTimer($timer);
-        $stream->close();
+        $stream->end();
     }
 });
 
