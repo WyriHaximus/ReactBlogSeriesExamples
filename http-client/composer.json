@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/http-client": "^0.4",
+        "jacobkiers/oauth": "^1.0"
+    }
+}
