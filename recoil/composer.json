@@ -1,0 +1,10 @@
+{
+    "require": {
+        "recoil/recoil": "^1.0",
+        "recoil/react": "^1.0",
+        "react/event-loop": "^0.4.3",
+        "react/promise": "^2.5",
+        "wyrihaximus/react-child-process-promise": "^2.0",
+        "react/dns": "^0.4.12"
+    }
+}
